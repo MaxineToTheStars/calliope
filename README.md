@@ -1,2 +1,1 @@
-# calliope
- A real time voice modulator
+Using Hardware + Software to combat voice dysphoria!

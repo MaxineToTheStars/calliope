@@ -1,0 +1,9 @@
+# Calliope || rust-toolchain.toml
+# --------------------------------
+# Rust toolchain file.
+#
+# Authors: @MaxineToTheStars <https://github.com/MaxineToTheStars>
+# ----------------------------------------------------------------
+
+[toolchain]
+channel = "esp"

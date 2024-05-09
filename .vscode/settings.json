@@ -1,0 +1,5 @@
+{
+    "cSpell.enableFiletypes": ["toml"],
+    "rust-analyzer.check.allTargets": false,
+    "terminal.integrated.defaultProfile.linux": "bash"
+}
